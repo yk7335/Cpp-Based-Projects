@@ -1,0 +1,2 @@
+This program familiarizes you with linked lists, and MinQueue operations. "DLList-class" and "MinQueue" were the first parts 
+to a three part program. The finished project is the folder "Templated-DLList-class" folder which contains it's own read me.
